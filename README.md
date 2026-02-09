@@ -24,7 +24,7 @@ Full-stack voice communication platform with Socket.IO signaling, Redis-backed p
 **Tech:** Node.js, Socket.IO, Redis, React, WebRTC
 
 ### [Authentication Microservice](https://github.com/NainaKothari-14/auth-service)
-Enterprise-grade authentication service supporting Email/Password, OTP (Email & WhatsApp), OAuth2 (Google, GitHub), and SSO. Built with PostgreSQL for user management and session persistence.
+Enterprise-grade authentication service supporting Email/Password, OTP (Email & WhatsApp), OAuth2 (Google, GitHub), and SSO flows. Built with PostgreSQL for user management and session persistence.
 
 **Tech:** Node.js, Express, PostgreSQL, React, OAuth2
 
@@ -51,7 +51,7 @@ Women-in-tech mentorship platform enabling mentor-mentee connections, session sc
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/naina-kothari-962871258/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nainavasai@gmail.com">
