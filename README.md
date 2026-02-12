@@ -1,6 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Naina%20Kothari&fontSize=50&color=gradient&customColorList=24,25,26,27,28,29&fontColor=ffffff&animation=twinkling"/>
+<!-- Day/Night Mode Header - Changes every minute! -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Naina%20Kothari&fontSize=50&color=gradient&customColorList=12,13,14,15,16,17&fontColor=ffffff&animation=twinkling&section=header&fontAlignY=35&desc=Night%20Owl%20Mode%20🌙&descAlignY=55"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Naina%20Kothari&fontSize=50&color=gradient&customColorList=0,2,6,9,12&fontColor=ffffff&animation=twinkling&section=header&fontAlignY=35&desc=Day%20Mode%20☀️&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Naina%20Kothari&fontSize=50&color=gradient&customColorList=24,25,26,27,28,29&fontColor=ffffff&animation=twinkling" />
+</picture>
 
 </div>
 
@@ -16,7 +21,9 @@
 
 ---
 
-## 🌟 About Me
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 🌟 About Me
 
 ```typescript
 interface Developer {
@@ -25,6 +32,7 @@ interface Developer {
   location: string;
   expertise: string[];
   currentMission: string;
+  mode: "day" | "night";
 }
 
 const naina: Developer = {
@@ -37,9 +45,12 @@ const naina: Developer = {
     "Distributed Systems",
     "Event-Driven Design"
   ],
-  currentMission: "Scaling applications to millions of users"
+  currentMission: "Scaling applications to millions of users",
+  mode: new Date().getMinutes() % 2 === 0 ? "day" : "night"
 };
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -247,8 +258,13 @@ Women-in-tech mentorship platform enabling connections, scheduling, and resource
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24,25,26,27,28,29&section=footer"/>
+<!-- Day/Night Footer -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,13,14,15,16,17&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,6,9,12&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24,25,26,27,28,29&section=footer" />
+</picture>
 
-**⚡ Powered by coffee and curiosity**
+**⚡ Powered by coffee and curiosity** • *Switches between ☀️ day & 🌙 night mode!*
 
 </div>
