@@ -1,23 +1,16 @@
 <div align="center">
 
-<!-- Day/Night Mode Header - Changes every minute! -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Naina%20Kothari&fontSize=50&color=gradient&customColorList=12,13,14,15,16,17&fontColor=ffffff&animation=twinkling&section=header&fontAlignY=35&desc=Night%20Owl%20Mode%20🌙&descAlignY=55"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Naina%20Kothari&fontSize=50&color=gradient&customColorList=0,2,6,9,12&fontColor=ffffff&animation=twinkling&section=header&fontAlignY=35&desc=Day%20Mode%20☀️&descAlignY=55"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Naina%20Kothari&fontSize=50&color=gradient&customColorList=24,25,26,27,28,29&fontColor=ffffff&animation=twinkling" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi,%20I'm%20Naina!%20👋&fontSize=60&color=gradient&customColorList=6,11,20&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Backend%20Architect&descAlignY=58&descSize=20"/>
 
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B490F5&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%92%BB;Backend+%26+Real-time+Systems+%E2%9A%A1;Microservices+Architect+%F0%9F%9A%80" alt="Typing SVG" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Building+Scalable+Backends+%F0%9F%9A%80;Real-time+Systems+Expert+%E2%9A%A1;Microservices+%26+Event-Driven;Open+Source+Enthusiast+%F0%9F%92%9C" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=NainaKothari-14&style=for-the-badge&color=b490f5)
-  
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NainaKothari-14&style=flat-square&color=9d4edd" alt="Profile views"/>
+</p>
 
 ---
 
@@ -32,7 +25,6 @@ interface Developer {
   location: string;
   expertise: string[];
   currentMission: string;
-  mode: "day" | "night";
 }
 
 const naina: Developer = {
@@ -45,8 +37,7 @@ const naina: Developer = {
     "Distributed Systems",
     "Event-Driven Design"
   ],
-  currentMission: "Scaling applications to millions of users",
-  mode: new Date().getMinutes() % 2 === 0 ? "day" : "night"
+  currentMission: "Scaling applications to millions of users"
 };
 ```
 
@@ -100,7 +91,7 @@ const naina: Developer = {
 
 <div align="center">
   
-[![View Repo](https://img.shields.io/badge/GitHub-View_Code-b490f5?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/Realtime-Voice-Chat-System)
+[![View Repo](https://img.shields.io/badge/GitHub-View_Code-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/Realtime-Voice-Chat-System)
 
 <p align="left">
 Full-stack voice communication platform featuring WebRTC peer-to-peer connections, Socket.IO signaling, and Redis-backed presence tracking.
@@ -127,7 +118,7 @@ Full-stack voice communication platform featuring WebRTC peer-to-peer connection
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/GitHub-View_Code-b490f5?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/auth-service)
+[![View Repo](https://img.shields.io/badge/GitHub-View_Code-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/auth-service)
 
 <p align="left">
 Enterprise-grade authentication service supporting multiple auth methods with PostgreSQL session management.
@@ -156,7 +147,7 @@ Enterprise-grade authentication service supporting multiple auth methods with Po
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/GitHub-View_Code-b490f5?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/pdf-generation-service-pdf-lib)
+[![View Repo](https://img.shields.io/badge/GitHub-View_Code-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/pdf-generation-service-pdf-lib)
 
 <p align="left">
 High-performance PDF microservice optimized with pdf-lib for scalable document processing.
@@ -180,7 +171,7 @@ High-performance PDF microservice optimized with pdf-lib for scalable document p
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/GitHub-View_Code-b490f5?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/mentor-her-platform-contribution)
+[![View Repo](https://img.shields.io/badge/GitHub-View_Code-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/mentor-her-platform-contribution)
 
 <p align="left">
 Women-in-tech mentorship platform enabling connections, scheduling, and resource sharing.
@@ -208,19 +199,10 @@ Women-in-tech mentorship platform enabling connections, scheduling, and resource
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NainaKothari-14&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=b490f5&icon_color=da62f5&text_color=c9d1d9&ring_color=b490f5" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NainaKothari-14&theme=radical&hide_border=true&background=1a1b27&ring=b490f5&fire=da62f5&currStreakLabel=b490f5&sideLabels=b490f5&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NainaKothari-14&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=b490f5&text_color=c9d1d9" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NainaKothari-14&theme=radical&utcOffset=5.5" />
-
-</div>
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NainaKothari-14&bg_color=1a1b27&color=b490f5&line=da62f5&point=ffffff&area=true&hide_border=true)](https://github.com/NainaKothari-14)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NainaKothari-14&bg_color=1a1b27&color=9d4edd&line=c77dff&point=ffffff&area=true&hide_border=true)](https://github.com/NainaKothari-14)
 
 </div>
 
@@ -258,13 +240,8 @@ Women-in-tech mentorship platform enabling connections, scheduling, and resource
 
 <div align="center">
 
-<!-- Day/Night Footer -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,13,14,15,16,17&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,6,9,12&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24,25,26,27,28,29&section=footer" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"/>
 
-**⚡ Powered by coffee and curiosity** • *Switches between ☀️ day & 🌙 night mode!*
+**⚡ Powered by coffee and curiosity**
 
 </div>
