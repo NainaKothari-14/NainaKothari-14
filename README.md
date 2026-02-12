@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Building+Scalable+Backends+%F0%9F%9A%80;Real-time+Systems+Expert+%E2%9A%A1;Microservices+%26+Event-Driven;Open+Source+Enthusiast+%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Designing+scalable+distributed+backend+systems;Specializing+in+real-time+communication;Event-driven+architecture+%26+microservices" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ interface Developer {
   role: string;
   location: string;
   expertise: string[];
-  currentMission: string;
+  currentFocus: string;
 }
 
 const naina: Developer = {
@@ -32,12 +32,12 @@ const naina: Developer = {
   role: "MERN Stack Developer",
   location: "India 🇮🇳",
   expertise: [
-    "Real-time Systems",
-    "Backend Architecture", 
-    "Distributed Systems",
-    "Event-Driven Design"
+    "Real-time Communication Systems",
+    "Scalable Backend Architecture", 
+    "Distributed Systems Design",
+    "Event-Driven Architectures"
   ],
-  currentMission: "Scaling applications to millions of users"
+  currentFocus: "Building production-grade real-time applications"
 };
 ```
 
@@ -45,7 +45,7 @@ const naina: Developer = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Stack
 
 <div align="center">
 
@@ -59,7 +59,7 @@ const naina: Developer = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Databases & Caching
+### Data Layer
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -69,7 +69,7 @@ const naina: Developer = {
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
-### DevOps & Tools
+### Infrastructure & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -87,22 +87,22 @@ const naina: Developer = {
 <tr>
 <td width="50%">
 
-<h3 align="center">🎙️ Real-time Voice Chat</h3>
+<h3 align="center">🎙️ Real-time Voice Communication Platform</h3>
 
 <div align="center">
   
-[![View Repo](https://img.shields.io/badge/GitHub-View_Code-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/Realtime-Voice-Chat-System)
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/Realtime-Voice-Chat-System)
 
 <p align="left">
-Full-stack voice communication platform featuring WebRTC peer-to-peer connections, Socket.IO signaling, and Redis-backed presence tracking.
+Production-ready voice communication platform leveraging WebRTC for peer-to-peer connections, Socket.IO for real-time signaling, and Redis for distributed presence management.
 </p>
 
-**Key Features:**
+**Technical Highlights:**
 
-🔹 Live 1-to-1 voice calls with mute controls  
-🔹 Real-time chat rooms & direct messaging  
-🔹 Voice note recording & playback  
-🔹 Redis-backed user presence tracking
+🔹 WebRTC-based peer-to-peer voice communication with adaptive bitrate control  
+🔹 Real-time chat infrastructure supporting rooms and direct messaging  
+🔹 Voice message recording with client-side buffering  
+🔹 Redis-backed distributed presence tracking for scalability
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
@@ -114,22 +114,22 @@ Full-stack voice communication platform featuring WebRTC peer-to-peer connection
 </td>
 <td width="50%">
 
-<h3 align="center">🔐 Auth Microservice</h3>
+<h3 align="center">🔐 Enterprise Authentication Microservice</h3>
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/GitHub-View_Code-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/auth-service)
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/auth-service)
 
 <p align="left">
-Enterprise-grade authentication service supporting multiple auth methods with PostgreSQL session management.
+Scalable authentication service implementing multiple authentication strategies with PostgreSQL-backed session management and OAuth2 integration.
 </p>
 
-**Key Features:**
+**Technical Highlights:**
 
-🔹 Email/Password authentication  
-🔹 OTP verification via Email & WhatsApp  
-🔹 OAuth2 integration (Google, GitHub)  
-🔹 SSO flows & session persistence
+🔹 Multi-strategy authentication (credentials, OTP, OAuth2)  
+🔹 Email and WhatsApp-based OTP verification flows  
+🔹 OAuth2 integration with Google and GitHub providers  
+🔹 Secure session management with PostgreSQL persistence
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -143,21 +143,21 @@ Enterprise-grade authentication service supporting multiple auth methods with Po
 <tr>
 <td width="50%">
 
-<h3 align="center">📄 PDF Generation Service</h3>
+<h3 align="center">📄 High-Performance PDF Generation Service</h3>
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/GitHub-View_Code-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/pdf-generation-service-pdf-lib)
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/pdf-generation-service-pdf-lib)
 
 <p align="left">
-High-performance PDF microservice optimized with pdf-lib for scalable document processing.
+Optimized PDF generation microservice built with pdf-lib, designed for low memory footprint and horizontal scalability in production environments.
 </p>
 
-**Key Features:**
+**Technical Highlights:**
 
-🔹 Optimized with pdf-lib over Puppeteer  
-🔹 Low memory footprint  
-🔹 Production-ready microservice architecture
+🔹 Memory-efficient implementation using pdf-lib over headless browsers  
+🔹 Microservice architecture enabling independent scaling  
+🔹 Production-ready with error handling and logging
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![pdf-lib](https://img.shields.io/badge/-pdf--lib-FF6B6B?style=flat-square&logo=adobe&logoColor=white)
@@ -171,18 +171,18 @@ High-performance PDF microservice optimized with pdf-lib for scalable document p
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/GitHub-View_Code-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/mentor-her-platform-contribution)
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/mentor-her-platform-contribution)
 
 <p align="left">
-Women-in-tech mentorship platform enabling connections, scheduling, and resource sharing.
+Collaborative mentorship platform for women in technology, implementing matching algorithms, scheduling systems, and resource sharing capabilities.
 </p>
 
-**Key Features:**
+**Technical Highlights:**
 
-🔹 Mentor-mentee matching system  
-🔹 Session scheduling & management  
-🔹 Resource sharing hub  
-🔹 TypeScript-based frontend architecture
+🔹 Mentor-mentee matching algorithm implementation  
+🔹 Real-time scheduling and session management  
+🔹 Collaborative resource sharing infrastructure  
+🔹 Type-safe frontend architecture with TypeScript
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -197,8 +197,7 @@ Women-in-tech mentorship platform enabling connections, scheduling, and resource
 
 ---
 
-## 📊 GitHub Analytics
-
+## 📊 GitHub Activity
 
 <div align="center">
   
@@ -216,23 +215,23 @@ Women-in-tech mentorship platform enabling connections, scheduling, and resource
 
 </div>
 
-> **Note:** Snake animation will appear after you run the GitHub Actions workflow. See setup guide for instructions.
+> **Note:** The contribution snake animation will appear after running the GitHub Actions workflow. Refer to the setup guide for deployment instructions.
 
 ---
 
-## 💬 Connect & Collaborate
+## 💬 Professional Network
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naina-kothari-962871258)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nainavasai@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nainavasai@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NainaKothari-14)
 
 <br/>
 
-### 💡 Open to Collaborations
+### 💡 Open to Collaboration
 
-*Backend Architecture • Real-time Systems • Distributed Applications • Open Source*
+*Backend Architecture • Real-time Systems • Distributed Applications • Open Source Contributions*
 
 </div>
 
@@ -242,6 +241,6 @@ Women-in-tech mentorship platform enabling connections, scheduling, and resource
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"/>
 
-**⚡ Powered by coffee and curiosity**
+**Engineering scalable solutions, one commit at a time**
 
 </div>
