@@ -5,11 +5,11 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Designing+scalable+distributed+backend+systems;Specializing+in+real-time+communication;Event-driven+architecture+%26+microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Designing+scalable+distributed+backend+systems;Specializing+in+real-time+communication;Event-driven+architecture+%26+microservices" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NainaKothari-14&style=flat-square&color=9d4edd" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=NainaKothari-14&style=flat-square&color=4A90E2" alt="Profile views"/>
 </p>
 
 ---
@@ -86,7 +86,7 @@ const naina: Developer = {
 
 <div align="center">
   
-[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/Realtime-Voice-Chat-System)
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-4A90E2?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/Realtime-Voice-Chat-System)
 
 <p align="left">
 Production-ready voice communication platform leveraging WebRTC for peer-to-peer connections, Socket.IO for real-time signaling, and Redis for distributed presence management.
@@ -100,7 +100,7 @@ Production-ready voice communication platform leveraging WebRTC for peer-to-peer
 🔹 Redis-backed distributed presence tracking for scalability
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,socketio,redis" height="32" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,socketio,redis" alt="Tech Stack" />
 </p>
 
 </div>
@@ -112,7 +112,7 @@ Production-ready voice communication platform leveraging WebRTC for peer-to-peer
 
 <div align="center">
 
-[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/auth-service)
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-4A90E2?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/auth-service)
 
 <p align="left">
 Scalable authentication service implementing multiple authentication strategies with PostgreSQL-backed session management and OAuth2 integration.
@@ -126,7 +126,7 @@ Scalable authentication service implementing multiple authentication strategies 
 🔹 Secure session management with PostgreSQL persistence
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres" height="32" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres" alt="Tech Stack" />
 </p>
 
 </div>
@@ -141,7 +141,7 @@ Scalable authentication service implementing multiple authentication strategies 
 
 <div align="center">
 
-[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/pdf-generation-service-pdf-lib)
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-4A90E2?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/pdf-generation-service-pdf-lib)
 
 <p align="left">
 Optimized PDF generation microservice built with pdf-lib, designed for low memory footprint and horizontal scalability in production environments.
@@ -154,7 +154,7 @@ Optimized PDF generation microservice built with pdf-lib, designed for low memor
 🔹 Production-ready with error handling and logging
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Tech Stack" />
 </p>
 
 </div>
@@ -166,7 +166,7 @@ Optimized PDF generation microservice built with pdf-lib, designed for low memor
 
 <div align="center">
 
-[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-9d4edd?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/mentor-her-platform-contribution)
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-4A90E2?style=for-the-badge&logo=github)](https://github.com/NainaKothari-14/mentor-her-platform-contribution)
 
 <p align="left">
 Collaborative mentorship platform for women in technology, implementing matching algorithms, scheduling systems, and resource sharing capabilities.
@@ -180,7 +180,7 @@ Collaborative mentorship platform for women in technology, implementing matching
 🔹 Type-safe frontend architecture with TypeScript
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,ts" height="32" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts" alt="Tech Stack" />
 </p>
 
 </div>
@@ -197,7 +197,7 @@ Collaborative mentorship platform for women in technology, implementing matching
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NainaKothari-14&bg_color=1a1b27&color=9d4edd&line=c77dff&point=ffffff&area=true&hide_border=true)](https://github.com/NainaKothari-14)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NainaKothari-14&bg_color=1a1b27&color=4A90E2&line=6BB6FF&point=ffffff&area=true&hide_border=true)](https://github.com/NainaKothari-14)
 
 </div>
 
