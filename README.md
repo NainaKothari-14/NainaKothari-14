@@ -62,9 +62,7 @@ const naina: Developer = {
 ### Real-time & Messaging
 <p>
   <img src="https://skillicons.dev/icons?i=socketio,kafka" alt="Real-time & Messaging" />
-</p>
-<p>
-  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/68/WebRTC_Logo.svg" alt="WebRTC" />
+  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/68/WebRTC_Logo.svg" alt="WebRTC" style="background-color: #e0e0e0; padding: 5px; border-radius: 8px;" />
 </p>
 
 ### Infrastructure & Tools
