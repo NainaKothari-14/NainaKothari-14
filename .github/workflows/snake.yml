@@ -1,5 +1,4 @@
 name: Generate Snake Animation
-
 on:
   # Run automatically every 24 hours
   schedule:
@@ -12,7 +11,6 @@ on:
   push:
     branches:
     - main
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -26,7 +24,7 @@ jobs:
           github_user_name: NainaKothari-14
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#4A90E2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
