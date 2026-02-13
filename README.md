@@ -193,16 +193,6 @@ Collaborative mentorship platform for women in technology, implementing matching
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NainaKothari-14&bg_color=1a1b27&color=4A90E2&line=6BB6FF&point=ffffff&area=true&hide_border=true)](https://github.com/NainaKothari-14)
-
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
