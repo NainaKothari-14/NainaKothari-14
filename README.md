@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi,%20I'm%20Naina!%20👋&fontSize=60&color=gradient&customColorList=6,11,20&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Backend%20Architect&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi,%20I'm%20Naina!%20👋&fontSize=60&color=gradient&customColorList=0,1,2,3,4&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Backend%20Architect&descAlignY=58&descSize=20"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://lottie.host/d82ec8e7-c0f7-4c8e-88e5-24a48c7c456b/e9BYP6ky3y.json">
 
 ### 🌟 About Me
 
@@ -50,30 +50,25 @@ const naina: Developer = {
 <div align="center">
 
 ### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,react,nextjs,nodejs,express" alt="Languages & Frameworks" />
+</p>
 
 ### Data Layer
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="Data Layer" />
+</p>
 
 ### Real-time & Messaging
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=socketio,kafka" alt="Real-time & Messaging" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webrtc/webrtc-original.svg" alt="WebRTC" />
+</p>
 
 ### Infrastructure & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,elasticsearch" alt="Infrastructure & Tools" />
+</p>
 
 </div>
 
@@ -104,10 +99,9 @@ Production-ready voice communication platform leveraging WebRTC for peer-to-peer
 🔹 Voice message recording with client-side buffering  
 🔹 Redis-backed distributed presence tracking for scalability
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,socketio,redis" height="32" alt="Tech Stack" />
+</p>
 
 </div>
 
@@ -131,9 +125,9 @@ Scalable authentication service implementing multiple authentication strategies 
 🔹 OAuth2 integration with Google and GitHub providers  
 🔹 Secure session management with PostgreSQL persistence
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![OAuth2](https://img.shields.io/badge/-OAuth2-3C873A?style=flat-square&logo=oauth&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres" height="32" alt="Tech Stack" />
+</p>
 
 </div>
 
@@ -159,8 +153,9 @@ Optimized PDF generation microservice built with pdf-lib, designed for low memor
 🔹 Microservice architecture enabling independent scaling  
 🔹 Production-ready with error handling and logging
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![pdf-lib](https://img.shields.io/badge/-pdf--lib-FF6B6B?style=flat-square&logo=adobe&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="Tech Stack" />
+</p>
 
 </div>
 
@@ -184,8 +179,9 @@ Collaborative mentorship platform for women in technology, implementing matching
 🔹 Collaborative resource sharing infrastructure  
 🔹 Type-safe frontend architecture with TypeScript
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,ts" height="32" alt="Tech Stack" />
+</p>
 
 </div>
 
