@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://lottie.host/d82ec8e7-c0f7-4c8e-88e5-24a48c7c456b/e9BYP6ky3y.json">
+
 
 ### 🌟 About Me
 
@@ -62,7 +62,9 @@ const naina: Developer = {
 ### Real-time & Messaging
 <p>
   <img src="https://skillicons.dev/icons?i=socketio,kafka" alt="Real-time & Messaging" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webrtc/webrtc-original.svg" alt="WebRTC" />
+</p>
+<p>
+  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/68/WebRTC_Logo.svg" alt="WebRTC" />
 </p>
 
 ### Infrastructure & Tools
