@@ -226,7 +226,4 @@ Collaborative mentorship platform for women in technology, implementing matching
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"/>
-
-**Engineering scalable solutions, one commit at a time**
-
 </div>
